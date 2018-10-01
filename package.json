@@ -1,0 +1,25 @@
+{
+  "name": "example-node-interface",
+  "version": "0.0.1",
+  "description": "Simple example covering the very basics of Graphql, and Apollo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "apollo-server": "2.0.0-beta.0",
+    "graphql": "^0.13.2",
+    "apollo-engine": "^1.1.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "graphql",
+    "apollo"
+  ]
+}
