@@ -6,7 +6,11 @@ const { parseNodeId, generateNodeId } = require('./utils');
   node id 
     for a person: "UGVyc29uOjEyMzQ="
     for an article: "QXJ0aWNsZTo1Njc4"
+HEYEYEYEYEYEYE
+
 */
+
+
 
 
 // Construct a schema, using GraphQL schema language
